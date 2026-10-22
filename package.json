@@ -1,0 +1,12 @@
+{
+  "name": "aw-fixture",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "is-odd": "3.0.1"
+  }
+}
