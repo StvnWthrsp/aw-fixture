@@ -1,3 +1,5 @@
+import isOdd from "is-odd"
+
 export function parity(value) {
-  return "unknown"
+  return isOdd(value) ? "odd" : "even"
 }
